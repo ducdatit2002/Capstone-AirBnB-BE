@@ -3,7 +3,7 @@
 
 Click here --> <a href="https://github.com/ducdatit2002/Capstone-AirBnB-BE" target="_blank">GitHub</a>
 </br>
-Click here --> <a href="" target="_blank">Video Demo</a>
+Click here --> <a href="https://www.youtube.com/watch?v=b4cf8WIkAWs" target="_blank">Video Demo</a>
 </br>
 
 ### Our team member
