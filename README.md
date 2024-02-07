@@ -3,7 +3,7 @@
 
 Click here --> <a href="https://github.com/ducdatit2002/Capstone-AirBnB-BE" target="_blank">GitHub</a>
 </br>
-Click here --> <a href="https://youtu.be/b4cf8WIkAWs" target="_blank">Video Demo</a>
+Click here --> <a href="" target="_blank">Video Demo</a>
 </br>
 
 ### Our team member
@@ -34,14 +34,6 @@ In the project directory, you can run:
 
 
 # Phạm Đức Đạt
-
-0. AUTH
--   POST đăng ký tài khoản
-    -   http://localhost:8080/api/auth/sign-up
--   POST đăng nhập
-    -   http://localhost:8080/api/auth/sign-up
--   PUT đổi password tài khoản
-    -   http://localhost:8080/api/auth/change-password/26
 
 1. USERS
 -   GET danh sách users
@@ -75,6 +67,13 @@ In the project directory, you can run:
 
 # Trần Ngọc Nhân
 
+0. AUTH
+-   POST đăng ký tài khoản
+    -   http://localhost:8080/api/auth/sign-up
+-   POST đăng nhập
+    -   http://localhost:8080/api/auth/sign-up
+-   PUT đổi password tài khoản
+    -   http://localhost:8080/api/auth/change-password/26
 4. ROOM
 -   GET danh sách rooms
      -  http://localhost:8080/api/rooms
