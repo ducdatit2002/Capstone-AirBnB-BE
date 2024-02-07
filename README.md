@@ -18,6 +18,11 @@ Click here --> <a href="https://www.youtube.com/watch?v=b4cf8WIkAWs" target="_bl
 | 1     | Member     |   Đức Đạt   |          100%      |
 | 2     | Member      |  Ngọc Nhân   |          100%      |
 
+| Name | Tasks |
+|:------|:-------------------------------------------------------------|
+| Đức Đạt     | Users API, locations API, comments API   |   
+| Ngọc Nhân   | Auths API, rooms API, reservations API  | 
+
 ## Links
 
 In the project directory, you can:
@@ -74,7 +79,7 @@ In the project directory, you can run:
     -   http://localhost:8080/api/auth/sign-up
 -   PUT đổi password tài khoản
     -   http://localhost:8080/api/auth/change-password/26
-4. ROOM
+4. ROOMS
 -   GET danh sách rooms
      -  http://localhost:8080/api/rooms
 -   POST tạo mới rooms
